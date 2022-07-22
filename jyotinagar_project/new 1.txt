@@ -1,0 +1,85 @@
+https://localhost/phpmyadmin
+
+https://localhost/jyotinagar_project/home.php      
+
+https://localhost/jyotinagar_project/register.php  Ma'am my Internal marks have not yet been updated.
+
+https://localhost/jyotinagar_project/login.php
+
+https://localhost/jyotinagar_project/admin/admin_login.php
+
+Teacher login:
+
+riya565@gmail.com
+Riya123$%^
+ds
+
+aparnas@gmail.com
+Aparna123$%^
+php
+
+divya78@gmail.com
+Divya123$%^
+java
+
+student login:
+Aditi Gupta
+aditi34@gmail.com
+Aditi123$%^
+
+Shikha Sharma
+shikhas98@gmail.com
+Shikha123$%^
+
+Profile image credit:
+https://www.gettyimages.in/photos
+http://crop-circle.imageonline.co
+
+SVG IMG:
+https://storyset.com
+<a href="https://storyset.com/social-media">Illustration by Freepik Storyset</a>
+
+login form credit: True Coder
+
+Chats Credit:
+https://canvasjs.com/php-charts/line-chart/
+https://canvasjs.com/php-charts/multiseries-chart/
+https://canvasjs.com/docs/charts/chart-options/colorset/
+
+***************************************************************************
+https://localhost/project/index.php
+
+https://localhost/project/admin/admin_login.php
+
+Jyoti123$%
+
+Riya456&*
+
+https://www.sourcecodester.com/php/14561/student-attendance-management-system-using-phpmysqli-source-code.html
+
+https://localhost/student_attendance/index.php
+user: admin
+pass: admin123
+
+
+https://localhost/kweb/kanoria/home2.php
+06355E
+
+https://coolors.co/palettes/trending
+https://www.w3schools.com/css/css_colors_rgb.asp
+
+  https://nextstep.tcs.com
+
+https://learning.tcsionhub.in/hub/national-qualifier-test/
+pass:intel@Corei5
+
+
+w3schools
+https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
+https://www.w3schools.com/howto/howto_css_form_on_image.asp
+https://www.w3schools.com/howto/howto_js_curtain_menu.asp
+https://www.w3docs.com/snippets/html/how-to-create-an-html-button-that-acts-like-a-link.html
+
+
+
+	
